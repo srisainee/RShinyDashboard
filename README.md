@@ -1,2 +1,2 @@
 # RShinyDashboard
-## Interactive Visualization using R Shiny
+Interactive Visualization using R Shiny
